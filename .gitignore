@@ -1,0 +1,6 @@
+ffmpeg.exe
+ffprobe.exe
+**/*.mp4
+**/*.jpg
+**/*.png
+!preview-sample.png
